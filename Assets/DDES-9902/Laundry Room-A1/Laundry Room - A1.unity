@@ -2597,7 +2597,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df65c143ab58e470c9119e8965b2e126, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::IntroText
-  delayTime: 5
+  delayTime: 4
   autoExecuteOnStart: 1
   onActionExecuted:
     m_PersistentCalls:
@@ -2744,7 +2744,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 0b3c5514f65c4411ab41ae4da1f75a36, type: 3}
+  m_Resource: {fileID: 8300000, guid: 4fb02dda3e688466480b8e07dc89c0f0, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.6
   m_Pitch: 1
@@ -10338,7 +10338,7 @@ GameObject:
   - component: {fileID: 1110881756}
   - component: {fileID: 1110881759}
   m_Layer: 0
-  m_Name: Correct. Extra Rinse is OFF.
+  m_Name: Correct.
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10375,7 +10375,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df65c143ab58e470c9119e8965b2e126, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::IntroText
-  delayTime: 3
+  delayTime: 1
   autoExecuteOnStart: 1
   onActionExecuted:
     m_PersistentCalls:
@@ -10515,7 +10515,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 02826afcd9ced46368b20bb2017a02cd, type: 3}
+  m_Resource: {fileID: 8300000, guid: 021d7e412373147d3a0528ed53aa240f, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.6
   m_Pitch: 1
